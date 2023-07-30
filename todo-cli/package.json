@@ -1,0 +1,12 @@
+{
+    "name": "my-todo-cli",
+    "version": "1.0.0",
+    "description": "A simple CLI todo app.",
+    "bin": {
+      "todo": "./bin/todo.js"
+    },
+    "preferGlobal": true,
+    "license": "MIT",
+    "main": "lib/index.js"
+  }
+  
